@@ -1,0 +1,25 @@
+*{
+    font-family: 'Mingzat', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgb(3, 2, 24);
+    color: #f0f8eeef;
+}
+
+#topbar{
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+    text-align: center;
+}
+
+/*.currency{
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    border-bottom: 0.2rem solid black;
+}
+
+.gold{
+    border-bottom: 0.2rem solid goldenrod;
+}*/
